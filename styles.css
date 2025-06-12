@@ -1,0 +1,87 @@
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}   
+body {
+    background-color: rgb(170, 218, 255);
+}
+.row {
+    justify-content: center;
+}
+.column {
+  float: left;
+  width: 300px;
+  padding: 5px;
+}
+h4 {
+    border-style: solid;
+    text-align: center;
+}
+
+#kone{
+    text-align: center;
+    padding: 5px;
+    margin: auto;
+    width: 450px;
+    background-color: rgb(98, 127, 150);
+    position: relative;
+    border-style: solid;
+}
+button {
+    width: 300px;
+    border-style: solid;
+    margin: 2px;
+    border-color: black; 
+    background-color: rgb(170, 218, 255);
+}
+button:hover {
+    background-color: rgba(170, 218, 255, 0.384);
+}
+
+#info {
+    text-align: center;
+    background-color: rgb(106, 184, 243);
+    width: 60%;
+    position: relative;
+    justify-content: center;
+    margin:auto;
+}
+.info-border {
+    border: 2px solid black;
+    border-radius: 8px;
+}
+#humanoidinfo {
+    background-color: rgb(5, 110, 5);
+    color:White;
+    border-color:black;
+}
+#humanoidinfo:hover {
+    background-color: rgba(5, 110, 5, 0.692);
+    
+}
+#mikkoinfo {
+    background-color: rgb(1, 30, 160);
+    color: White;
+    border-color: black;
+}
+#mikkoinfo:hover {
+    background-color: rgba(1, 30, 160, 0.692);
+}
+#lauriinfo {
+    background-color: rgb(58, 59, 57);
+    color: White;
+    border-color: black;
+}
+#lauriinfo:hover {
+    background-color: rgba(58, 59, 57, 0.692);
+}
+#tuomasinfo {
+    background-color: rgb(50, 77, 196);
+    color: White;
+    border-color: black;
+}
+#tuomasinfo:hover {
+    background-color: rgba(50, 77, 196, 0.692);
+}
